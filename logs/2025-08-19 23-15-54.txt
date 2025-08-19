@@ -281,3 +281,7 @@
 23:49:22.970:   OpenType support missing for "Open Sans", script 12
 23:49:22.974:   OpenType support missing for "Open Sans", script 16
 23:49:22.977:   OpenType support missing for "Open Sans", script 20
+23:53:30.172: xshm-input: Geometry 1920x1080 @ 1920,0
+23:53:30.177: User added source 'full left bottom' (xshm_input) to scene 'Quad Flip'
+23:53:33.407: xshm-input: Geometry 1920x1080 @ 0,0
+23:53:35.511: xshm-input: Geometry 1920x1080 @ 3840,0
