@@ -260,3 +260,24 @@
 23:26:53.120: User added source 'Full Screen' (xshm_input) to scene 'Quad Flip'
 23:27:15.040: User switched to scene 'pix reflect glitch'
 23:27:21.104: User switched to scene 'Quad Flip'
+23:36:40.690: User added source 'left half' (xshm_input) to scene 'Quad Flip'
+23:36:40.695: User added source 'left_half_flipped' (xshm_input) to scene 'Quad Flip'
+23:36:43.788: User Removed source 'Full Screen' (xshm_input) from scene '4 Cornors'
+23:36:43.788: User Removed source '4 Cornors' (group) from scene 'Quad Flip'
+23:36:43.789: User Removed source 'left half' (xshm_input) from scene 'Quad Flip'
+23:36:43.789: User Removed source 'left_half_flipped' (xshm_input) from scene 'Quad Flip'
+23:36:43.796: User added source '4 Cornors' (group) to scene 'Quad Flip'
+23:37:03.477: User added source 'Full Screen' (xshm_input) to scene 'Quad Flip'
+23:38:56.416: xshm-input: Geometry 1920x1080 @ 3840,0
+23:39:01.591: xshm-input: Geometry 1920x1080 @ 3840,0
+23:40:50.142: User Removed source 'Full Screen' (xshm_input) from scene '4 Cornors'
+23:41:21.511: xshm-input: Geometry 1920x1080 @ 1920,0
+23:41:21.517: User added source 'Full Screen Flipped Vert' (xshm_input) to scene 'Quad Flip'
+23:41:26.016: xshm-input: Geometry 1920x1080 @ 3840,0
+23:41:39.903: xshm-input: Geometry 1920x1080 @ 3840,0
+23:43:59.347: xshm-input: Geometry 1920x1080 @ 3840,0
+23:44:24.097: xshm-input: Geometry 1920x1080 @ 3840,0
+23:49:22.964:   OpenType support missing for "Open Sans", script 11
+23:49:22.970:   OpenType support missing for "Open Sans", script 12
+23:49:22.974:   OpenType support missing for "Open Sans", script 16
+23:49:22.977:   OpenType support missing for "Open Sans", script 20
