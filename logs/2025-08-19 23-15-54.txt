@@ -1,0 +1,262 @@
+23:15:54.044: Using EGL/X11
+23:15:54.045: CPU Name: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+23:15:54.045: CPU Speed: 3444.571MHz
+23:15:54.045: Physical Cores: 4, Logical Cores: 8
+23:15:54.045: Physical Memory: 15861MB Total, 1872MB Free
+23:15:54.045: Kernel Version: Linux 6.8.0-51-generic
+23:15:54.045: Distribution: "Linux Mint" "22.1"
+23:15:54.045: Desktop Environment: X-Cinnamon (cinnamon)
+23:15:54.045: Session Type: x11
+23:15:54.045: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+23:15:54.046: Qt Version: 6.4.2 (runtime), 6.4.2 (compiled)
+23:15:54.046: Portable mode: false
+23:15:54.089: OBS 30.0.2.1-3build1 (linux)
+23:15:54.089: ---------------------------------
+23:15:54.101: ---------------------------------
+23:15:54.101: audio settings reset:
+23:15:54.101: 	samples per sec: 48000
+23:15:54.101: 	speakers:        2
+23:15:54.101: 	max buffering:   960 milliseconds
+23:15:54.101: 	buffering type:  dynamically increasing
+23:15:54.103: ---------------------------------
+23:15:54.103: Initializing OpenGL...
+23:15:54.251: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1060/PCIe/SSE2
+23:15:54.251: OpenGL loaded successfully, version 3.3.0 NVIDIA 575.64.03, shading language 3.30 NVIDIA via Cg compiler
+23:15:54.293: ---------------------------------
+23:15:54.293: video settings reset:
+23:15:54.293: 	base resolution:   1920x1080
+23:15:54.293: 	output resolution: 1920x1080
+23:15:54.293: 	downscale filter:  Bicubic
+23:15:54.293: 	fps:               30/1
+23:15:54.293: 	format:            NV12
+23:15:54.293: 	YUV mode:          Rec. 709/Partial
+23:15:54.293: NV12 texture support not available
+23:15:54.293: P010 texture support not available
+23:15:54.293: Audio monitoring device:
+23:15:54.293: 	name: Default
+23:15:54.293: 	id: default
+23:15:54.293: ---------------------------------
+23:15:54.306: Failed to load 'en-US' text for module: 'decklink-captions.so'
+23:15:54.317: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+23:15:54.327: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+23:15:54.327: Failed to initialize module 'decklink.so'
+23:15:54.432: [pipewire] No captures available
+23:15:54.583: NVENC supported
+23:15:54.585: VAAPI: API version 1.20
+23:15:54.585: FFmpeg VAAPI H264 encoding supported
+23:15:54.587: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+23:15:54.587: FFmpeg VAAPI HEVC encoding not supported
+23:15:54.640: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.3.4 | RPC Version: 1)
+23:15:54.640: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.2 | Qt version (run-time): 6.4.2
+23:15:54.640: [obs-websocket] [obs_module_load] Linked ASIO Version: 102801
+23:15:54.647: [obs-websocket] [obs_module_load] Module loaded.
+23:15:54.696: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+23:15:54.708: Failed to load 'en-GB' text for module: 'obs-shaderfilter.so'
+23:15:54.708: [obs-shaderfilter] loaded version 2.5.1
+23:15:54.708: ---------------------------------
+23:15:54.708:   Loaded Modules:
+23:15:54.708:     obs-shaderfilter.so
+23:15:54.708:     vlc-video.so
+23:15:54.708:     text-freetype2.so
+23:15:54.708:     rtmp-services.so
+23:15:54.708:     obs-x264.so
+23:15:54.708:     obs-websocket.so
+23:15:54.708:     obs-transitions.so
+23:15:54.708:     obs-outputs.so
+23:15:54.708:     obs-filters.so
+23:15:54.708:     obs-ffmpeg.so
+23:15:54.708:     linux-v4l2.so
+23:15:54.708:     linux-pulseaudio.so
+23:15:54.708:     linux-pipewire.so
+23:15:54.708:     linux-jack.so
+23:15:54.708:     linux-capture.so
+23:15:54.708:     linux-alsa.so
+23:15:54.708:     image-source.so
+23:15:54.708:     frontend-tools.so
+23:15:54.708:     decklink-output-ui.so
+23:15:54.708:     decklink-captions.so
+23:15:54.708: ---------------------------------
+23:15:54.708: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+23:15:54.708: ==== Startup complete ===============================================
+23:15:54.806: All scene data cleared
+23:15:54.806: ------------------------------------------------
+23:15:54.810: Source ID 'wasapi_output_capture' not found
+23:15:54.810: Failed to create source 'Desktop Audio'!
+23:15:54.810: [Loaded global audio device]: 'Desktop Audio'
+23:15:54.810: Source ID 'wasapi_input_capture' not found
+23:15:54.811: Failed to create source 'Mic/Aux'!
+23:15:54.811: [Loaded global audio device]: 'Mic/Aux'
+23:15:54.812: Source ID 'monitor_capture' not found
+23:15:54.812: Failed to create source 'Display Capture 7'!
+23:15:54.812: Source ID 'monitor_capture' not found
+23:15:54.813: Failed to create source 'Display Capture 6'!
+23:15:54.813: Source ID 'monitor_capture' not found
+23:15:54.813: Failed to create source 'Display Capture 5'!
+23:15:54.813: Source ID 'monitor_capture' not found
+23:15:54.814: Failed to create source 'Display Capture 4'!
+23:15:54.815: Source ID 'monitor_capture' not found
+23:15:54.815: Failed to create source 'Display Capture 3'!
+23:15:54.820: Source ID 'monitor_capture' not found
+23:15:54.820: Failed to create source 'Display Capture'!
+23:15:54.845: xshm-input: Geometry 1920x1080 @ 3840,0
+23:15:54.846: xshm-input: Geometry 1920x1080 @ 3840,0
+23:15:54.860: Switched to scene 'Hor edge no glitch'
+23:15:54.861: ------------------------------------------------
+23:15:54.861: Loaded scenes:
+23:15:54.861: - scene 'Display':
+23:15:54.861:     - source: 'left half' (xshm_input)
+23:15:54.861: - scene 'Vignette':
+23:15:54.861:     - source: 'left half' (xshm_input)
+23:15:54.861:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.861: - scene 'Horizontal Reflect':
+23:15:54.861:     - source: 'left half' (xshm_input)
+23:15:54.861:     - source: 'left_half_flipped' (xshm_input)
+23:15:54.861: - scene 'Horizontal Glitch Reflect':
+23:15:54.861:     - source: 'left half' (xshm_input)
+23:15:54.861:     - source: 'left_half_flipped' (xshm_input)
+23:15:54.861:     - filter: 'Glitch' (shader_filter)
+23:15:54.861: - scene 'pix reflect':
+23:15:54.861:     - source: 'left half' (xshm_input)
+23:15:54.861:     - source: 'left_half_flipped' (xshm_input)
+23:15:54.861:     - filter: 'pixelation' (shader_filter)
+23:15:54.861: - scene 'pix reflect glitch':
+23:15:54.861:     - source: 'left half' (xshm_input)
+23:15:54.861:     - source: 'left_half_flipped' (xshm_input)
+23:15:54.861:     - filter: 'pixelation' (shader_filter)
+23:15:54.861:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.861: - scene 'Hor edge no glitch':
+23:15:54.862:     - source: 'left half' (xshm_input)
+23:15:54.862:     - source: 'left_half_flipped' (xshm_input)
+23:15:54.862:     - filter: 'User-defined shaderEdge' (shader_filter)
+23:15:54.862: - scene 'ref edge glitch':
+23:15:54.862:     - source: 'Display Capture' (monitor_capture)
+23:15:54.862:         - filter: 'Crop/Pad' (crop_filter)
+23:15:54.862:     - source: 'Display Capture 3' (monitor_capture)
+23:15:54.862:         - filter: 'Crop/Pad' (crop_filter)
+23:15:54.862:     - filter: 'User-defined shaderEdge' (shader_filter)
+23:15:54.862:     - filter: 'Glitch' (shader_filter)
+23:15:54.862: - scene 'Hor edge no glitch 2':
+23:15:54.862:     - source: 'Display Capture' (monitor_capture)
+23:15:54.862:         - filter: 'Crop/Pad' (crop_filter)
+23:15:54.862:     - source: 'Display Capture 3' (monitor_capture)
+23:15:54.862:         - filter: 'Crop/Pad' (crop_filter)
+23:15:54.862:     - filter: 'User-defined shaderEdge' (shader_filter)
+23:15:54.862: - scene 'Big Pixels':
+23:15:54.862:     - source: 'Display Capture' (monitor_capture)
+23:15:54.862:         - filter: 'Crop/Pad' (crop_filter)
+23:15:54.862:     - source: 'Display Capture 3' (monitor_capture)
+23:15:54.862:         - filter: 'Crop/Pad' (crop_filter)
+23:15:54.862:     - filter: 'User-defined shaderEdge' (shader_filter)
+23:15:54.862: - scene 'Quad Flip':
+23:15:54.862:     - source: '4 Cornors' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862: - scene 'Quad Kalidiscope':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862: - scene 'Kalid Chromatic':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.862: - scene 'Kalid Edge':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.862:     - filter: 'User-defined shader 2' (shader_filter)
+23:15:54.862: - scene 'Kalid Edge Bloom':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.862:     - filter: 'User-defined shader 2' (shader_filter)
+23:15:54.862: - scene 'Kalid Edge Distortion':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.862:     - filter: 'User-defined shader 2' (shader_filter)
+23:15:54.862: - scene 'VCR':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.862: - scene 'Burn':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862:     - filter: 'User-defined shader 2' (shader_filter)
+23:15:54.862:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.862: - scene 'Kalid Edge Bloom 2 2':
+23:15:54.862:     - source: '4 Cornors 2' (group)
+23:15:54.862:         - source: 'Display Capture 4' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 5' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 6' (monitor_capture)
+23:15:54.862:         - source: 'Display Capture 7' (monitor_capture)
+23:15:54.862:     - filter: 'User-defined shader 2' (shader_filter)
+23:15:54.862:     - filter: 'User-defined shader' (shader_filter)
+23:15:54.862: ------------------------------------------------
+23:16:00.458: User switched to scene 'ref edge glitch'
+23:16:05.275: User Removed source 'Display Capture' (monitor_capture) from scene 'ref edge glitch'
+23:16:05.276: User Removed source 'Display Capture 3' (monitor_capture) from scene 'ref edge glitch'
+23:16:09.394: User switched to scene 'Hor edge no glitch'
+23:16:13.211: User switched to scene 'ref edge glitch'
+23:16:14.938: User added source 'left half' (xshm_input) to scene 'ref edge glitch'
+23:16:14.940: User added source 'left_half_flipped' (xshm_input) to scene 'ref edge glitch'
+23:19:04.551: User switched to scene 'Hor edge no glitch 2'
+23:19:12.324: User Removed source 'Display Capture' (monitor_capture) from scene 'Hor edge no glitch 2'
+23:19:12.325: User Removed source 'Display Capture 3' (monitor_capture) from scene 'Hor edge no glitch 2'
+23:19:15.335: User added source 'left half' (xshm_input) to scene 'Hor edge no glitch 2'
+23:19:15.347: User added source 'left_half_flipped' (xshm_input) to scene 'Hor edge no glitch 2'
+23:19:38.490: Source 'Hor edge no glitch 2' renamed to 'pixel_reflect'
+23:19:40.635: User switched to scene 'Big Pixels'
+23:19:45.423: User Removed source 'Display Capture' (monitor_capture) from scene 'Big Pixels'
+23:19:45.423: User Removed source 'Display Capture 3' (monitor_capture) from scene 'Big Pixels'
+23:19:46.585: User added source 'left half' (xshm_input) to scene 'Big Pixels'
+23:19:46.594: User added source 'left_half_flipped' (xshm_input) to scene 'Big Pixels'
+23:19:48.916: User switched to scene 'pixel_reflect'
+23:19:52.930: User switched to scene 'Big Pixels'
+23:19:57.154: User switched to scene 'Quad Flip'
+23:21:31.011: User Removed source 'Display Capture 4' (monitor_capture) from scene '4 Cornors'
+23:21:31.012: User Removed source 'Display Capture 5' (monitor_capture) from scene '4 Cornors'
+23:21:31.012: User Removed source 'Display Capture 6' (monitor_capture) from scene '4 Cornors'
+23:21:31.012: User Removed source 'Display Capture 7' (monitor_capture) from scene '4 Cornors'
+23:25:03.403: User switched to scene 'Display'
+23:25:10.231: User Removed source 'left half' (xshm_input) from scene 'Display'
+23:25:26.635: xshm-input: Geometry 1920x1080 @ 1920,0
+23:25:26.644: User added source 'Full Screen' (xshm_input) to scene 'Display'
+23:25:29.835: xshm-input: Geometry 1920x1080 @ 0,0
+23:25:36.170: xshm-input: Geometry 1920x1080 @ 3840,0
+23:25:40.976: User switched to scene 'Vignette'
+23:25:43.461: User Removed source 'left half' (xshm_input) from scene 'Vignette'
+23:25:54.090: User added source 'Full Screen' (xshm_input) to scene 'Vignette'
+23:26:19.146: User switched to scene 'Horizontal Reflect'
+23:26:24.450: User switched to scene 'Horizontal Glitch Reflect'
+23:26:28.986: User switched to scene 'pix reflect'
+23:26:31.010: User switched to scene 'pix reflect glitch'
+23:26:32.869: User switched to scene 'Hor edge no glitch'
+23:26:34.759: User switched to scene 'ref edge glitch'
+23:26:36.608: User switched to scene 'pixel_reflect'
+23:26:37.686: User switched to scene 'Big Pixels'
+23:26:39.621: User switched to scene 'Quad Flip'
+23:26:53.120: User added source 'Full Screen' (xshm_input) to scene 'Quad Flip'
+23:27:15.040: User switched to scene 'pix reflect glitch'
+23:27:21.104: User switched to scene 'Quad Flip'

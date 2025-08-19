@@ -1,0 +1,393 @@
+22:17:48.216: Using EGL/X11
+22:17:48.216: CPU Name: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+22:17:48.216: CPU Speed: 3554.903MHz
+22:17:48.217: Physical Cores: 4, Logical Cores: 8
+22:17:48.217: Physical Memory: 15861MB Total, 4324MB Free
+22:17:48.217: Kernel Version: Linux 6.8.0-51-generic
+22:17:48.217: Distribution: "Linux Mint" "22.1"
+22:17:48.217: Desktop Environment: X-Cinnamon (cinnamon)
+22:17:48.217: Session Type: x11
+22:17:48.217: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+22:17:48.218: Qt Version: 6.4.2 (runtime), 6.4.2 (compiled)
+22:17:48.218: Portable mode: false
+22:17:48.262: OBS 30.0.2.1-3build1 (linux)
+22:17:48.262: ---------------------------------
+22:17:48.262: ---------------------------------
+22:17:48.262: audio settings reset:
+22:17:48.262: 	samples per sec: 48000
+22:17:48.262: 	speakers:        2
+22:17:48.262: 	max buffering:   960 milliseconds
+22:17:48.262: 	buffering type:  dynamically increasing
+22:17:48.264: ---------------------------------
+22:17:48.264: Initializing OpenGL...
+22:17:48.349: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1060/PCIe/SSE2
+22:17:48.349: OpenGL loaded successfully, version 3.3.0 NVIDIA 575.64.03, shading language 3.30 NVIDIA via Cg compiler
+22:17:48.379: ---------------------------------
+22:17:48.379: video settings reset:
+22:17:48.379: 	base resolution:   1920x1080
+22:17:48.379: 	output resolution: 1280x720
+22:17:48.379: 	downscale filter:  Bicubic
+22:17:48.379: 	fps:               30/1
+22:17:48.379: 	format:            NV12
+22:17:48.379: 	YUV mode:          Rec. 709/Partial
+22:17:48.379: NV12 texture support not available
+22:17:48.379: P010 texture support not available
+22:17:48.380: Audio monitoring device:
+22:17:48.380: 	name: Default
+22:17:48.380: 	id: default
+22:17:48.380: ---------------------------------
+22:17:48.390: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22:17:48.401: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+22:17:48.410: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22:17:48.410: Failed to initialize module 'decklink.so'
+22:17:48.502: [pipewire] No captures available
+22:17:48.606: NVENC supported
+22:17:48.609: VAAPI: API version 1.20
+22:17:48.609: FFmpeg VAAPI H264 encoding supported
+22:17:48.611: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+22:17:48.611: FFmpeg VAAPI HEVC encoding not supported
+22:17:48.657: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.3.4 | RPC Version: 1)
+22:17:48.657: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.2 | Qt version (run-time): 6.4.2
+22:17:48.657: [obs-websocket] [obs_module_load] Linked ASIO Version: 102801
+22:17:48.664: [obs-websocket] [obs_module_load] Module loaded.
+22:17:48.717: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+22:17:48.727: Failed to load 'en-GB' text for module: 'obs-shaderfilter.so'
+22:17:48.727: [obs-shaderfilter] loaded version 2.5.1
+22:17:48.727: ---------------------------------
+22:17:48.727:   Loaded Modules:
+22:17:48.727:     obs-shaderfilter.so
+22:17:48.727:     vlc-video.so
+22:17:48.727:     text-freetype2.so
+22:17:48.727:     rtmp-services.so
+22:17:48.727:     obs-x264.so
+22:17:48.727:     obs-websocket.so
+22:17:48.727:     obs-transitions.so
+22:17:48.727:     obs-outputs.so
+22:17:48.727:     obs-filters.so
+22:17:48.727:     obs-ffmpeg.so
+22:17:48.728:     linux-v4l2.so
+22:17:48.728:     linux-pulseaudio.so
+22:17:48.728:     linux-pipewire.so
+22:17:48.728:     linux-jack.so
+22:17:48.728:     linux-capture.so
+22:17:48.728:     linux-alsa.so
+22:17:48.728:     image-source.so
+22:17:48.728:     frontend-tools.so
+22:17:48.728:     decklink-output-ui.so
+22:17:48.728:     decklink-captions.so
+22:17:48.728: ---------------------------------
+22:17:48.728: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+22:17:48.728: ==== Startup complete ===============================================
+22:17:48.796: All scene data cleared
+22:17:48.796: ------------------------------------------------
+22:17:48.798: Source ID 'wasapi_output_capture' not found
+22:17:48.798: Failed to create source 'Desktop Audio'!
+22:17:48.798: [Loaded global audio device]: 'Desktop Audio'
+22:17:48.798: Source ID 'wasapi_input_capture' not found
+22:17:48.798: Failed to create source 'Mic/Aux'!
+22:17:48.798: [Loaded global audio device]: 'Mic/Aux'
+22:17:48.799: Source ID 'monitor_capture' not found
+22:17:48.799: Failed to create source 'Display Capture 7'!
+22:17:48.799: Source ID 'monitor_capture' not found
+22:17:48.799: Failed to create source 'Display Capture 6'!
+22:17:48.799: Source ID 'monitor_capture' not found
+22:17:48.799: Failed to create source 'Display Capture 5'!
+22:17:48.800: Source ID 'monitor_capture' not found
+22:17:48.800: Failed to create source 'Display Capture 4'!
+22:17:48.800: Source ID 'monitor_capture' not found
+22:17:48.800: Failed to create source 'Display Capture 3'!
+22:17:48.803: Source ID 'monitor_capture' not found
+22:17:48.803: Failed to create source 'Display Capture'!
+22:17:48.821: Source ID 'monitor_capture' not found
+22:17:48.822: Failed to create source 'Display Capture 2'!
+22:17:48.828: xshm-input: Geometry 2560x1440 @ 0,0
+22:17:48.829: xshm-input: Geometry 2560x1440 @ 0,0
+22:17:48.847: Switched to scene 'Display'
+22:17:48.847: ------------------------------------------------
+22:17:48.847: Loaded scenes:
+22:17:48.847: - scene 'Display':
+22:17:48.861:     - source: 'Screen Capture (XSHM) 2' (xshm_input)
+22:17:48.861:         - filter: 'User-defined shader' (shader_filter)
+22:17:48.861: - scene 'Vignette':
+22:17:48.861:     - source: 'Display Capture 2' (monitor_capture)
+22:17:48.861:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.861: - scene 'Horizontal Reflect':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861: - scene 'Horizontal Glitch Reflect':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - filter: 'Glitch' (shader_filter)
+22:17:48.861: - scene 'pix reflect':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - filter: 'pixelation' (shader_filter)
+22:17:48.861: - scene 'pix reflect glitch':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - filter: 'pixelation' (shader_filter)
+22:17:48.861:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.861: - scene 'Hor edge no glitch':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Screen Capture (XSHM)' (xshm_input)
+22:17:48.861:     - filter: 'User-defined shaderEdge' (shader_filter)
+22:17:48.861: - scene 'ref edge glitch':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - filter: 'User-defined shaderEdge' (shader_filter)
+22:17:48.861:     - filter: 'Glitch' (shader_filter)
+22:17:48.861: - scene 'Hor edge no glitch 2':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - filter: 'User-defined shaderEdge' (shader_filter)
+22:17:48.861: - scene 'Big Pixels':
+22:17:48.861:     - source: 'Display Capture' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - source: 'Display Capture 3' (monitor_capture)
+22:17:48.861:         - filter: 'Crop/Pad' (crop_filter)
+22:17:48.861:     - filter: 'User-defined shaderEdge' (shader_filter)
+22:17:48.861: - scene 'Quad Flip':
+22:17:48.861:     - source: '4 Cornors' (group)
+22:17:48.861:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.861: - scene 'Quad Kalidiscope':
+22:17:48.861:     - source: '4 Cornors 2' (group)
+22:17:48.861:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.861: - scene 'Kalid Chromatic':
+22:17:48.861:     - source: '4 Cornors 2' (group)
+22:17:48.861:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.861:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.861: - scene 'Kalid Edge':
+22:17:48.861:     - source: '4 Cornors 2' (group)
+22:17:48.861:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.861:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.861:     - filter: 'User-defined shader 2' (shader_filter)
+22:17:48.861: - scene 'Kalid Edge Bloom':
+22:17:48.861:     - source: '4 Cornors 2' (group)
+22:17:48.861:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.861:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.861:     - filter: 'User-defined shader 2' (shader_filter)
+22:17:48.861: - scene 'Kalid Edge Distortion':
+22:17:48.861:     - source: '4 Cornors 2' (group)
+22:17:48.861:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.861:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.861:     - filter: 'User-defined shader 2' (shader_filter)
+22:17:48.861: - scene 'VCR':
+22:17:48.861:     - source: '4 Cornors 2' (group)
+22:17:48.861:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.861:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.861:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.861: - scene 'Burn':
+22:17:48.862:     - source: '4 Cornors 2' (group)
+22:17:48.862:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.862:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.862:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.862:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.862:     - filter: 'User-defined shader 2' (shader_filter)
+22:17:48.862:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.862: - scene 'Kalid Edge Bloom 2 2':
+22:17:48.862:     - source: '4 Cornors 2' (group)
+22:17:48.862:         - source: 'Display Capture 4' (monitor_capture)
+22:17:48.862:         - source: 'Display Capture 5' (monitor_capture)
+22:17:48.862:         - source: 'Display Capture 6' (monitor_capture)
+22:17:48.862:         - source: 'Display Capture 7' (monitor_capture)
+22:17:48.862:     - filter: 'User-defined shader 2' (shader_filter)
+22:17:48.862:     - filter: 'User-defined shader' (shader_filter)
+22:17:48.862: ------------------------------------------------
+22:17:51.647: User switched to scene 'Vignette'
+22:18:08.635: User Removed source 'Display Capture 2' (monitor_capture) from scene 'Vignette'
+22:18:39.311: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Vignette'
+22:18:47.533: User switched to scene 'Display'
+22:20:13.366:   OpenType support missing for "Open Sans", script 11
+22:20:13.370:   OpenType support missing for "Open Sans", script 12
+22:20:13.373:   OpenType support missing for "Open Sans", script 16
+22:20:13.378:   OpenType support missing for "Open Sans", script 20
+22:20:30.412: Number of remaining views: 1
+22:20:30.412: ---------------------------------
+22:20:30.412: video settings reset:
+22:20:30.412: 	base resolution:   1920x1080
+22:20:30.412: 	output resolution: 1920x1080
+22:20:30.412: 	downscale filter:  Bicubic
+22:20:30.412: 	fps:               30/1
+22:20:30.412: 	format:            NV12
+22:20:30.412: 	YUV mode:          Rec. 709/Partial
+22:20:30.412: NV12 texture support not available
+22:20:30.412: P010 texture support not available
+22:20:30.414: Settings changed (video)
+22:20:30.414: ------------------------------------------------
+22:37:06.124: xshm-input: Geometry 1920x1080 @ 0,0
+22:37:25.499: User Removed source 'Screen Capture (XSHM) 2' (xshm_input) from scene 'Display'
+22:37:42.126: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Display'
+22:37:55.231: xshm-input: Geometry 1920x1080 @ 3840,0
+22:42:30.609: User switched to scene 'Vignette'
+22:42:41.832: User switched to scene 'Horizontal Reflect'
+22:42:54.200: User Removed source 'Display Capture' (monitor_capture) from scene 'Horizontal Reflect'
+22:42:54.200: User Removed source 'Display Capture 3' (monitor_capture) from scene 'Horizontal Reflect'
+22:43:01.364: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Horizontal Reflect'
+22:47:59.050: xshm-input: Geometry 1920x1080 @ 3840,0
+22:47:59.817: xshm-input: Geometry 1920x1080 @ 3840,0
+22:48:00.616: xshm-input: Geometry 1920x1080 @ 3840,0
+22:48:10.516: xshm-input: Geometry 1920x1080 @ 3840,0
+22:48:14.386: xshm-input: Geometry 1920x1080 @ 3840,0
+22:48:17.983: xshm-input: Geometry 1920x1080 @ 3840,0
+22:48:18.686: xshm-input: Geometry 1920x1080 @ 3840,0
+22:48:19.184: xshm-input: Geometry 1920x1080 @ 3840,0
+22:49:01.914: Source 'Screen Capture (XSHM)' renamed to 'left half'
+22:49:26.890: xshm-input: Geometry 1920x1080 @ 1920,0
+22:49:26.893: User added source 'right half' (xshm_input) to scene 'Horizontal Reflect'
+22:49:31.662: xshm-input: Geometry 1920x1080 @ 0,0
+22:49:34.061: xshm-input: Geometry 1920x1080 @ 3840,0
+22:49:44.586: xshm-input: Geometry 1920x1080 @ 3840,0
+22:49:58.493: xshm-input: Geometry 1920x1080 @ 3840,0
+22:50:00.098: xshm-input: Geometry 1920x1080 @ 3840,0
+22:50:05.819: User Removed source 'left half' (xshm_input) from scene 'Horizontal Reflect'
+22:50:09.358: User Removed source 'right half' (xshm_input) from scene 'Horizontal Reflect'
+22:50:09.366: User added source 'left half' (xshm_input) to scene 'Horizontal Reflect'
+22:50:09.374: User added source 'right half' (xshm_input) to scene 'Horizontal Reflect'
+22:50:13.865: User Removed source 'right half' (xshm_input) from scene 'Horizontal Reflect'
+22:50:22.070: User added source 'left half' (xshm_input) to scene 'Horizontal Reflect'
+22:52:45.420: User added filter 'Scaling/Aspect Ratio' (scale_filter) to source 'left half'
+22:52:51.792: User removed filter 'Scaling/Aspect Ratio' (scale_filter) from source 'left half'
+22:55:56.510: Source 'left half' renamed to 'left half_flipped'
+22:56:20.332: Source 'left half_flipped' renamed to 'left half'
+22:57:34.991: User Removed source 'left half' (xshm_input) from scene 'Horizontal Reflect'
+22:58:09.228: xshm-input: Geometry 1920x1080 @ 1920,0
+22:58:09.234: User added source 'left_half_flipped' (xshm_input) to scene 'Horizontal Reflect'
+22:58:16.353: xshm-input: Geometry 1920x1080 @ 0,0
+22:58:19.422: xshm-input: Geometry 1920x1080 @ 3840,0
+22:58:32.320: xshm-input: Geometry 1920x1080 @ 3840,0
+22:58:33.155: xshm-input: Geometry 1920x1080 @ 3840,0
+22:58:33.719: xshm-input: Geometry 1920x1080 @ 3840,0
+23:01:21.393: User switched to scene 'Horizontal Glitch Reflect'
+23:01:25.890: User Removed source 'Display Capture' (monitor_capture) from scene 'Horizontal Glitch Reflect'
+23:01:25.891: User Removed source 'Display Capture 3' (monitor_capture) from scene 'Horizontal Glitch Reflect'
+23:01:28.233: User added source 'left half' (xshm_input) to scene 'Horizontal Glitch Reflect'
+23:01:28.244: User added source 'left_half_flipped' (xshm_input) to scene 'Horizontal Glitch Reflect'
+23:14:09.643: User switched to scene 'pix reflect'
+23:14:18.616: User Removed source 'Display Capture' (monitor_capture) from scene 'pix reflect'
+23:14:18.616: User Removed source 'Display Capture 3' (monitor_capture) from scene 'pix reflect'
+23:14:19.815: User switched to scene 'Horizontal Glitch Reflect'
+23:14:24.269: User switched to scene 'pix reflect'
+23:14:27.079: User added source 'left half' (xshm_input) to scene 'pix reflect'
+23:14:27.091: User added source 'left_half_flipped' (xshm_input) to scene 'pix reflect'
+23:15:01.037: User switched to scene 'pix reflect glitch'
+23:15:04.874: User Removed source 'Display Capture' (monitor_capture) from scene 'pix reflect glitch'
+23:15:04.874: User Removed source 'Display Capture 3' (monitor_capture) from scene 'pix reflect glitch'
+23:15:08.382: User added source 'left half' (xshm_input) to scene 'pix reflect glitch'
+23:15:08.388: User added source 'left_half_flipped' (xshm_input) to scene 'pix reflect glitch'
+23:15:14.701: User switched to scene 'Hor edge no glitch'
+23:15:27.168: User Removed source 'Display Capture' (monitor_capture) from scene 'Hor edge no glitch'
+23:15:27.168: User Removed source 'Display Capture 3' (monitor_capture) from scene 'Hor edge no glitch'
+23:15:27.168: User Removed source 'left half' (xshm_input) from scene 'Hor edge no glitch'
+23:15:28.644: User added source 'left half' (xshm_input) to scene 'Hor edge no glitch'
+23:15:28.647: User added source 'left_half_flipped' (xshm_input) to scene 'Hor edge no glitch'
+23:15:45.574: ==== Shutting down ==================================================
+23:15:45.683: All scene data cleared
+23:15:45.683: ------------------------------------------------
+23:15:45.838: [obs-websocket] [obs_module_unload] Shutting down...
+23:15:45.838: Tried to call obs_frontend_remove_event_callback with no callbacks!
+23:15:45.838: [obs-websocket] [obs_module_unload] Finished shutting down.
+23:15:45.852: [Scripting] Total detached callbacks: 0
+23:15:45.853: Freeing OBS context data
+23:15:45.889: == Profiler Results =============================
+23:15:45.889: run_program_init: 863.01 ms
+23:15:45.889:  ┣OBSApp::AppInit: 5.793 ms
+23:15:45.889:  ┃ ┗OBSApp::InitLocale: 0.827 ms
+23:15:45.889:  ┗OBSApp::OBSInit: 749.68 ms
+23:15:45.889:    ┣obs_startup: 1.914 ms
+23:15:45.889:    ┗OBSBasic::OBSInit: 704.197 ms
+23:15:45.889:      ┣OBSBasic::InitBasicConfig: 0.155 ms
+23:15:45.889:      ┣OBSBasic::ResetAudio: 0.284 ms
+23:15:45.889:      ┣OBSBasic::ResetVideo: 117.463 ms
+23:15:45.889:      ┃ ┗obs_init_graphics: 116.987 ms
+23:15:45.889:      ┃   ┗shader compilation: 29.71 ms
+23:15:45.889:      ┣OBSBasic::InitOBSCallbacks: 0.003 ms
+23:15:45.889:      ┣OBSBasic::InitHotkeys: 0.022 ms
+23:15:45.889:      ┣obs_load_all_modules2: 347.672 ms
+23:15:45.889:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+23:15:45.889:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+23:15:45.889:      ┃ ┣obs_init_module(decklink.so): 0.128 ms
+23:15:45.889:      ┃ ┣obs_init_module(frontend-tools.so): 24.321 ms
+23:15:45.889:      ┃ ┣obs_init_module(image-source.so): 0.046 ms
+23:15:45.889:      ┃ ┣obs_init_module(linux-alsa.so): 0.005 ms
+23:15:45.889:      ┃ ┣obs_init_module(linux-capture.so): 0.631 ms
+23:15:45.889:      ┃ ┣obs_init_module(linux-jack.so): 0.004 ms
+23:15:45.889:      ┃ ┣obs_init_module(linux-pipewire.so): 6.587 ms
+23:15:45.889:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.008 ms
+23:15:45.889:      ┃ ┣obs_init_module(linux-v4l2.so): 3.504 ms
+23:15:45.889:      ┃ ┣obs_init_module(obs-ffmpeg.so): 5.394 ms
+23:15:45.889:      ┃ ┃ ┗nvenc_check: 0.989 ms
+23:15:45.889:      ┃ ┣obs_init_module(obs-filters.so): 0.036 ms
+23:15:45.889:      ┃ ┣obs_init_module(obs-outputs.so): 0.005 ms
+23:15:45.889:      ┃ ┣obs_init_module(obs-transitions.so): 0.01 ms
+23:15:45.889:      ┃ ┣obs_init_module(obs-websocket.so): 6.83 ms
+23:15:45.889:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+23:15:45.889:      ┃ ┣obs_init_module(rtmp-services.so): 0.62 ms
+23:15:45.889:      ┃ ┣obs_init_module(text-freetype2.so): 0.014 ms
+23:15:45.889:      ┃ ┣obs_init_module(vlc-video.so): 1.215 ms
+23:15:45.889:      ┃ ┗obs_init_module(obs-shaderfilter.so): 0.015 ms
+23:15:45.889:      ┣OBSBasic::InitService: 1.768 ms
+23:15:45.889:      ┣OBSBasic::ResetOutputs: 0.243 ms
+23:15:45.889:      ┣OBSBasic::CreateHotkeys: 0.02 ms
+23:15:45.889:      ┣OBSBasic::InitPrimitives: 0.297 ms
+23:15:45.889:      ┗OBSBasic::Load: 134.612 ms
+23:15:45.889: obs_hotkey_thread(25 ms): min=0.07 ms, median=0.556 ms, max=2101.7 ms, 99th percentile=3.981 ms, 99.9546% below 25 ms
+23:15:45.889: audio_thread(Audio): min=0.008 ms, median=0.04 ms, max=40.112 ms, 99th percentile=0.315 ms
+23:15:45.889: obs_graphics_thread(33.3333 ms): min=0.359 ms, median=4.216 ms, max=1350.12 ms, 99th percentile=21.137 ms, 99.8546% below 33.333 ms
+23:15:45.889:  ┣tick_sources: min=0 ms, median=0.276 ms, max=1349.04 ms, 99th percentile=16.575 ms
+23:15:45.889:  ┣output_frame: min=0.128 ms, median=1.03 ms, max=14.877 ms, 99th percentile=1.98 ms
+23:15:45.889:  ┃ ┗gs_context(video->graphics): min=0.128 ms, median=1.029 ms, max=14.877 ms, 99th percentile=1.978 ms
+23:15:45.889:  ┃   ┣render_video: min=0.058 ms, median=0.794 ms, max=14.79 ms, 99th percentile=1.573 ms
+23:15:45.889:  ┃   ┃ ┗render_main_texture: min=0.047 ms, median=0.763 ms, max=14.772 ms, 99th percentile=1.536 ms
+23:15:45.889:  ┃   ┗gs_flush: min=0.008 ms, median=0.043 ms, max=4.166 ms, 99th percentile=0.206 ms
+23:15:45.889:  ┗render_displays: min=0.027 ms, median=1.929 ms, max=27.893 ms, 99th percentile=8.412 ms
+23:15:45.889: obs_graphics_thread(33.3333 ms): min=0.365 ms, median=7.459 ms, max=2115.92 ms, 99th percentile=17.184 ms, 99.8942% below 33.333 ms
+23:15:45.889:  ┣tick_sources: min=0.003 ms, median=3.421 ms, max=1627.23 ms, 99th percentile=8.856 ms
+23:15:45.889:  ┣output_frame: min=0.11 ms, median=0.715 ms, max=56.137 ms, 99th percentile=1.877 ms
+23:15:45.889:  ┃ ┗gs_context(video->graphics): min=0.11 ms, median=0.714 ms, max=56.135 ms, 99th percentile=1.874 ms
+23:15:45.889:  ┃   ┣render_video: min=0.055 ms, median=0.512 ms, max=55.864 ms, 99th percentile=1.483 ms
+23:15:45.889:  ┃   ┃ ┗render_main_texture: min=0.046 ms, median=0.483 ms, max=55.847 ms, 99th percentile=1.437 ms
+23:15:45.889:  ┃   ┗gs_flush: min=0.004 ms, median=0.033 ms, max=18.962 ms, 99th percentile=0.366 ms
+23:15:45.889:  ┗render_displays: min=0.027 ms, median=2.5 ms, max=200.286 ms, 99th percentile=9.09 ms
+23:15:45.889: OBSBasic::ResetVideo: 49.691 ms
+23:15:45.889: =================================================
+23:15:45.889: == Profiler Time Between Calls ==================
+23:15:45.889: obs_hotkey_thread(25 ms): min=25.092 ms, median=25.673 ms, max=2126.79 ms, 28.5997% within ±2% of 25 ms (0% lower, 71.4003% higher)
+23:15:45.889: obs_graphics_thread(33.3333 ms): min=4.905 ms, median=33.334 ms, max=1350.13 ms, 99.3142% within ±2% of 33.333 ms (0.353283% lower, 0.332502% higher)
+23:15:45.889: obs_graphics_thread(33.3333 ms): min=1.031 ms, median=33.334 ms, max=2115.93 ms, 99.317% within ±2% of 33.333 ms (0.340506% lower, 0.342521% higher)
+23:15:45.889: =================================================
+23:15:45.977: Number of memory leaks: 0
